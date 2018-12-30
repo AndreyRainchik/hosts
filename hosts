@@ -19260,7 +19260,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.whizstats.com
 # [Amazon.com][AS39111][35.152.0.0 - 35.183.255.255]
 0.0.0.0 www.currentupdateconcepts.com  #[Riskware/PUP]
-0.0.0.0 api.segment.io
+#0.0.0.0 api.segment.io
 0.0.0.0 ssp.videostat.com
 # [Amazon.com][AS39111][46.137.0.0 - 46.137.127.255]
 0.0.0.0 s248.meetrics.net
