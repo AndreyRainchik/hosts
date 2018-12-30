@@ -119,7 +119,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 www.tvpassport.com
-0.0.0.0 www.googletagservices.com
+#0.0.0.0 www.googletagservices.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 postmediamontrealgazette2.files.wordpress.com
 0.0.0.0 cdnapi.kaltura.com
@@ -9429,7 +9429,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 callmd5map.com
 0.0.0.0 c.am10.ru
 0.0.0.0 cam2cam.xlovecam.com
-#0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 camgeil.com
 0.0.0.0 campaign.iitech.dk
 0.0.0.0 campaign.indieclick.com
