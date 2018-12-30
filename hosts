@@ -10127,7 +10127,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eclkspbn.com
 0.0.0.0 ecoencomputer.com
 0.0.0.0 ecomadserver.com
-0.0.0.0 e.crashlytics.com
+#0.0.0.0 e.crashlytics.com
 0.0.0.0 ecs1.engageya.com
 0.0.0.0 eddamedia.linkpulse.com
 0.0.0.0 edge.bnmla.com
@@ -66250,7 +66250,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c00132-dl.urbanairship.com
 0.0.0.0 cac-api.urbanairship.com
 0.0.0.0 chat.urbanairship.com
-# 0.0.0.0 combine.urbanairship.com
+0.0.0.0 combine.urbanairship.com
 0.0.0.0 connect.urbanairship.com
 0.0.0.0 connect-testing.urbanairship.com
 0.0.0.0 dl.urbanairship.com
